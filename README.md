@@ -9,3 +9,13 @@
 - 🤔 What I want to learn next: Improving my React game by learning [Remix](https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin?ck_subscriber_id=703982781)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm allergic to nuts...   ...come to think of it, that fact is not very fun.
+
+## 🧰 Tools I Like To Use
+
+- [React](https://reactjs.org/)
+- [GraphQL](https://graphql.org/)
+- [Node](https://nodejs.org/)
+- [Sass](https://sass-lang.com/)
+- [styled-components](https://www.styled-components.com/)
+- [Webpack](https://webpack.js.org/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
