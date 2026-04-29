@@ -1,11 +1,13 @@
 # Max Scher
 
-👋 Hi, I'm Max. I'm a software engineer at Nike, working in Consumer Services. Previously, I built full-stack web applications at [Isolary](https://www.isolary.com) for business clients across various industries.
+👋 Hi, My name is Max. I'm a software engineer at Nike, contributing regularly to their private enterprise repositories (Managed User profile). Previously, I built full-stack web applications at [Isolary](https://www.isolary.com) for business clients across various industries.
 
 ## About Me
 
-- 🌱 I'm currently learning: agentic coding and process automation with Cursor and multiple domain-specific [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)s.
-- 🔭 I look forward to: Getting my [AWS Cloud Practicioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) certification.
+- 🌱 I'm currently learning:
+  - spec-driven development with [open spec](https://github.com/Fission-AI/OpenSpec)
+  - agentic coding and process automation with Cursor and multiple domain-specific [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)s.
+- 🔭 I look forward to: Getting my [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) certification.
 
 
 ## 🧰 Tools I Like To Use
